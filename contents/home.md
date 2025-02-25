@@ -2,15 +2,15 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Ph.D. in Electrical Engineering, at South Dakota State University, Brookings, SD, USA.
 
 #### Email
-sli[at]cumt.edu.cn
+sli[at]Jun.Zhang@jacks.sdstate.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Electrical Engineering, South Dakota State University, SD, USA, 2023-2025(expected).\
+M.S., Electrical Engineering and Automation, Guangxi University, China, 2017—2020.\
+B.S., Electrical Engineering and Automation, Guangxi University, China, 2013—2017.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Microgrid Modeling and Control, Hardware-in-the-loop Simulation, Hardware Testbed Design, Microgrid Steady State Analysis.
